@@ -1,0 +1,70 @@
+{
+  "owner": {
+    "name": "John Wiard Group",
+    "description": "VN John Wiard professional node and validator group",
+    "type": [
+      "validator"
+    ],
+    "identity": {
+      "ownership_disclosure_url": "",
+      "casper_association_kyc_url": "",
+      "casper_association_kyc_onchain": ""
+    },
+    "resources": {
+      "code_of_conduct_url": "",
+      "terms_of_service_url": "",
+      "privacy_policy_url": "",
+      "other": [
+        {
+          "name": "About Us",
+          "url": "https://www.johnwiardgroup.io.vn/home"
+        }
+      ]
+    },
+    "affiliated_accounts": [
+      {
+        "public_key": "0203f24936c93290cdb4478b9f0bd805dc90decff85d71c2fc19a3d3e0e1a237f0de"
+      }
+    ],
+    "website": "https://www.johnwiardgroup.io.vn/home",
+    "email": "johnwiard.official@gmail.com",
+    "branding": {
+      "logo": {
+        "png_256": "https://raw.githubusercontent.com/johnwiard/JWlogo/main/logo.png",
+        "png_1024": "",
+        "svg": ""
+      }
+    },
+    "location": {
+      "name": "HCM City",
+      "country": "VN",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social": {
+      "keybase": "",
+      "telegram": "",
+      "twitter": "",
+      "github": "",
+      "youtube": "",
+      "facebook": "",
+      "medium": "",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "public_key": "01d04437794c32c5873114f546ecdf89c8b68906026296f36136ad1ca4cd8d90ac",
+      "description": "This validator is running on a bare metal machine with top hardware specifications HP Z8 G4 worksation dual xeon gold CPUs",
+      "location": {
+        "name": "HCM City",
+        "country": "VN",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "functionality": [
+        "validator"
+      ]
+    }
+  ]
+}
